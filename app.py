@@ -53,7 +53,7 @@ Image : Datacenter.jpg – Wikimedia Commons
 (<a href="https://commons.wikimedia.org/wiki/File:Datacenter.jpg"
 target="_blank" rel="noopener">source de l'image</a>).
 </p>
-<p><strong>Version 1</strong></p>
+<p><strong>Version 2</strong></p>
 </body>
 </html>
 """
